@@ -3,8 +3,6 @@
 
 alias ins="pkg install"
 
-pkg update -y ; pkg upgrade -y
-
 ins x11-repo -y ; ins termux-x11-nightly -y ; ins fluxbox -y ; ins thunar -y
 
 unalias ins
