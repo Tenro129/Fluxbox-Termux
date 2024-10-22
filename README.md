@@ -4,4 +4,6 @@ This is a quick installation process to run Fluxbox desktop environment on your 
 
 # Setup
 
+```
 pkg update ; pkg upgrade ; pkg install git ;
+```
