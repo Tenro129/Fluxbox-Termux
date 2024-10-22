@@ -1,6 +1,7 @@
 # Fluxbox Termux 
 
-This is a quick installation process to run Fluxbox desktop environment on your Termux application
+This is a quick installation process to run Fluxbox desktop environment on your Termux application. However, proot-distro is not able to run this command.
 
-# Installation 
+# Setup
 
+`pkg update ; pkg upgrade ; pkg install git ;`
