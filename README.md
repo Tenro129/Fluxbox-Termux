@@ -5,7 +5,7 @@ This is a quick installation process to run Fluxbox desktop environment on your 
 # Setup
 
 - Important
-Download Termux-X11 application in the link down below.
+<br> Download Termux-X11 application in the link down below.
 
 https://github.com/termux/termux-x11/releases
 
