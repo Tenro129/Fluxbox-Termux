@@ -5,12 +5,12 @@ This is a quick installation process to run Fluxbox desktop environment on your 
 # Setup
 
 - Important
-Download Termux-X11 application in the link down below
+Download Termux-X11 application in the link down below.
 
 https://github.com/termux/termux-x11/releases
 
-- And then, copy this command and run it on your Termux application
+- And then, copy this command and run it on your Termux application.
 
 ```
-pkg update ; pkg upgrade ; pkg install git ; git clone https://github.com/Tenro129/Fluxbox-Termux
+pkg update ; pkg upgrade ; pkg install git ; git clone https://github.com/Tenro129/Fluxbox-Termux ; cd Fluxbox-Termux ; clear ; bash install.sh
 ```
