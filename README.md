@@ -12,5 +12,5 @@ https://github.com/termux/termux-x11/releases
 - And then, copy this command and run it on your Termux application.
 
 ```
-pkg update ; pkg upgrade ; pkg install git ; git clone https://github.com/Tenro129/Fluxbox-Termux ; cd Fluxbox-Termux ; clear ; cd Termux-Fluxbox ; bash install.sh
+pkg update ; pkg upgrade ; pkg install git ; git clone https://github.com/Tenro129/Fluxbox-Termux ; cd Fluxbox-Termux ; clear ; cd Termux-Fluxbox ; chmod +x install.sh ; chmod +x flux.sh ; ./install.sh
 ```
