@@ -1,5 +1,6 @@
 !/bin/bash
 #Note: This is a script, you don't need to follow the arguments one-by-one.
+clear
 
 pkg install x11-repo -y ; pkg install termux-x11-nightly -y ; pkg install fluxbox -y ; pkg install thunar -y
 
